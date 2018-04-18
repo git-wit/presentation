@@ -1,3 +1,4 @@
+
 # presentation
 
 ##how to use markdown
@@ -16,7 +17,6 @@ _You **can** combine them_
   * Item 2b
   
   First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-a|b
-c|d
+  ------------ | -------------
+  Content from cell 1 | Content from cell 2
+
